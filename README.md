@@ -1,2 +1,2 @@
-# Exercicios Diversos
- Exercicios diversos com JavaScript, HTML e CSS
+# Exercícios Diversos
+ Exercícios diversos com JavaScript, HTML e CSS
